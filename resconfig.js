@@ -13,13 +13,20 @@ const config = {
     region       	: 'indonesia',
     resbot_version  : 'HangzCuy v3.5',
     apikey_resbot   : 'APIKEY_GRATIS', // apikey beli di autoresbot.com
-    nomorsuperOwner : '6285866435726',
+    nomorsuperOwner : '22502331988',
     grup            : 'https://whatsapp.com/channel/0029VajFFkVJ3juzjX8TkA21',
     email           : 'hangzcuy@gmail.com',
     ig           	: '@gaada',
-    ownername       : 'HangzCuy',
-    botname         : 'HangzCuy',
-    packname        : 'HangzCuy',
+    ownername       : 
+ 'ʟ /𝒖
+    ᴏ/𝒛
+      ᴜ/𝒖
+       ᴋ/𝒎
+         s/ 𝒂
+           ᴏ/𝒌
+             ɴ/𝒊',
+    botname         : 'NARUTO-MD',
+    packname        : '✮✮✮ʟᴏᴜᴋsᴏɴᵘᶻᵘᵐᵃᵏⁱ₊ ͟͟͞͞➳',
     sleep_game      : 60000, // waktu main tebak (1000 = 1 detik)
     limit_tunggu 	: 10, // ini menit = 10 menit setiap setelah claim
     MoneyMenangGame : 20,
@@ -63,7 +70,7 @@ const config = {
         description     : 'Jika Ada Pertanyaan Hubungi Telegram Admin : https://t.me/autoresbot_com'
     },
     BACKUP          : {
-        autobackup : false, // true atau false
+        autobackup : true, // true atau false
         autosendwa : true
     }
 };
