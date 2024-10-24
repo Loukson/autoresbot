@@ -9,14 +9,14 @@
 const path=require("path"),fs=require("fs"),chalk=require("chalk"),moment=require("moment-timezone");
 
 const config = {
-    botDestination  : 'group', // group |  private | both
-    region       	: 'indonesia',
+    botDestination  : 'both', // group |  private | both
+    region       	: 'french',
     resbot_version  : 'HangzCuy v3.5',
     apikey_resbot   : 'APIKEY_GRATIS', // apikey beli di autoresbot.com
     nomorsuperOwner : '22502331988',
     grup            : 'https://whatsapp.com/channel/0029VajFFkVJ3juzjX8TkA21',
     email           : 'hangzcuy@gmail.com',
-    ig           	: '@gaada',
+    ig           	: '✮✮✮ʟᴏᴜᴋsᴏɴᵘᶻᵘᵐᵃᵏⁱ₊ ͟͟͞͞➳',
     ownername       : 
  'ʟ /𝒖
     ᴏ/𝒛
@@ -45,22 +45,22 @@ const config = {
     mulai 		: '1',
     },
     author          : `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nYouTube: Azhari Creative\nBot: 0852-4615-4386`,
-    allmenu         : 'https://telegra.ph/file/8303c9aaba8c2c8dd1f8e.jpg',
-    typeWelcome 	: '1', // ada 3 pilihan angka 1 = image pp user  2 = image welcome custom   || 3 = teks only
+    allmenu         : 'https://iili.io/dmKqfTP.jpg',
+    typeWelcome 	: '2', // ada 3 pilihan angka 1 = image pp user  2 = image welcome custom   || 3 = teks only
     icon_on			: '🟢', 
 	icon_off		: '🔴',
     game 			: {
-        tebakangka   : 'https://telegra.ph/file/81a1aa13c00d36a1f2b75.jpg',
-        tebaklontong : 'https://telegra.ph/file/f20bec6cbc011da4ac25d.jpg',
-        tebakkalimat : 'https://telegra.ph/file/9624ca315002d0898bcee.jpg',
-        tebaklirik   : 'https://telegra.ph/file/ec6362c91aaf837a6ec77.jpg',
-        tebakkata    : 'https://telegra.ph/file/4cd10be17fd6c13303453.jpg',
-        tebakbendera : 'https://telegra.ph/file/d982a966ba17ee035807c.jpg',
-        tebakgambar  : 'https://telegra.ph/file/e9107d96769831a17ee21.jpg',
-        tebaklagu    : 'https://telegra.ph/file/d96c459b9605d6fab4284.jpg'
+        tebakangka   : 'https://iili.io/dmKqfTP.jpg',
+        tebaklontong : 'https://iili.io/dmKqfTP.jpg',
+        tebakkalimat : 'https://iili.io/dmKqfTP.jpg',
+        tebaklirik   : 'https://iili.io/dmKqfTP.jpg',
+        tebakkata    : 'https://iili.io/dmKqfTP.jpg',
+        tebakbendera : 'https://iili.io/dmKqfTP.jpg',
+        tebakgambar  : 'https://iili.io/dmKqfTP.jpg',
+        tebaklagu    : 'https://iili.io/dmKqfTP.jpg'
     },
     PANEL            : {
-        URL             : '', // https://panel.contoh.com
+        URL             : 'https://dash.navocloud.com', // https://panel.contoh.com
         KEY_APPLICATION : '', // ambil di panel : ptla_xxxxx
         SERVER_EGG      : '15',
         port_range      : '1900-2000',
